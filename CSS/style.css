@@ -102,13 +102,20 @@ h2 {
     line-height: 1,16;
     text-align: center;
     letter-spacing: 0.03em;
-    margin-top: 94px;
+    color: #212121; 
+    margin-top: 94px   
 
-    color: #212121;    
+}
+.section {
+    padding-bottom: 94px;
 
 }
 .middle {
+    padding-top: 94px;
     background-color: #F5F4FA;
+}
+.middle h2 {
+    margin-top: 0;
 }
 
 .works-img {
@@ -118,7 +125,8 @@ h2 {
     justify-content: space-between;
     
 }
-.team {
+.team, 
+.what-we-doing-title {   
     margin-bottom: 50px;
 }
 
