@@ -98,6 +98,7 @@ address {
     line-height: 1.71;    
     letter-spacing: 0.03em;
     color: #FFFFFF;
+    margin: 20px 0 9px;
 
 }
 .foot-mail {
@@ -122,8 +123,4 @@ color: #FFFFFF;
 }
 .mail-one {
     margin-bottom: 9px;
-}
-.address {
-    margin: 20px 0 9px;
-
 }
