@@ -1,0 +1,161 @@
+
+ul {
+    padding: 0;
+}
+address {
+    font-style: normal;
+}
+.studio-item{
+    color: #2196F3;
+}
+.port-item, .contacts-item{
+    color: black;
+}
+.port-item:hover,
+.port-item:focus {
+    color: #2196F3;
+}
+.contacts-item:hover,
+.contacts-item:focus{
+    color: #2196F3;
+}
+
+.main-page {
+    width:auto;
+    height: 600px;
+    background-color: #2F303A;
+}
+.main-items-one {
+    background-color: #2F303A;
+    padding-top: 200px;
+    padding-bottom:200px;
+
+
+}
+.main-words {
+    width: 696px;
+    text-align: center;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 44px;
+    line-height: 1.36;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    
+    margin: 0 auto 30px;
+}
+.button{
+    margin: 0 auto;
+    display: block;
+    font-weight: 700px;
+    font-size: 16px;
+    line-height: 1.87;
+    text-align: center;
+    letter-spacing: 0.06em;
+    color: #FFFFFF;
+    background-color: #2196F3;
+    border-radius: 4px;
+    padding: 10px 32px;
+    border: none;
+}
+.button:hover,
+.button:focus {
+    background: #188CE8;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+}
+.description-items {
+    list-style: none;
+    display: flex;
+    margin: 94px 0;
+    justify-content: space-between;
+    
+}
+
+.services {
+    font-family: roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 16px;    
+}
+
+h4 {
+    color: #757575;
+}
+.description-one {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    width: 270px;
+    height: 75px;
+    font-size: 14px;
+    line-height: 24px;    
+    margin: 0 auto;
+
+}
+h2 {
+    text-align: center;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 1,16;
+    text-align: center;
+    letter-spacing: 0.03em;
+    margin-top: 94px;
+
+    color: #212121;    
+
+}
+.middle {
+    background-color: #F5F4FA;
+}
+
+.works-img {
+    list-style: none;
+    display: flex;
+    margin: 0 auto;
+    justify-content: space-between;
+    
+}
+.team {
+    margin-bottom: 50px;
+}
+
+.command_items {
+    padding: 0;
+    margin: 0 auto;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
+.command-item {
+    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14), 0px 2px 1px rgba(0, 0, 0, 0.2);
+    border-radius: 0px 0px 4px 4px;
+    margin-bottom: 94px;
+}
+.identity {
+    color: #757575;
+    text-align: center;
+}
+.workers {
+    text-align: center;
+    font-weight: bold;
+}
+footer {
+    background-color: #2F303A;
+    padding: 60px 0;
+}
+.address {
+    margin: 20px 0 9px;
+
+}
+
+li {
+    list-style: none;
+}
+
+
+
+
+
